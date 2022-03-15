@@ -1,2 +1,2 @@
-# crypto-bnbboost
+# bscstaker
 Created with CodeSandbox
